@@ -90,7 +90,7 @@ python scripts/run_benchmark.py --input path/to/All_tiger_all_prey.csv
   intervals are wide.
 * Prey covariates are distances to fixed annual occurrence centroids, hence a deterministic function of
   position (no prey dynamics). NDVI / land-use are evaluated at the realised fix, not at candidate cells.
-* The `King_Cobra` centroid is not included in `data/prey_centroids.csv` (10 of 11 distance covariates).
+  
 
 ## License and citation
 
