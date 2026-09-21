@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the associated article."
+title: "A Game-Theoretic Decision-Support Framework for Tiger Movement Prediction in the Sundarbans"
+authors:
+  - family-names: Choudhary
+    given-names: Richa
+  - family-names: Choudhury
+    given-names: Tanupriya
+  - family-names: Dahiya
+    given-names: Susheela
+  - family-names: Dewangan
+    given-names: Bhupesh Kumar
+license: MIT
+# TODO(authors): add repository-code, doi (Zenodo) and the journal reference once available.

@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+# Raw telemetry belongs to the Wildlife Institute of India - do not commit
+data/raw/*
+!data/raw/.gitkeep
+*.xlsx
